@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mikeckennedy/urlify)
+
 # URLify
 
 A simple macOS app to create valid file and url names from clipboard text.
